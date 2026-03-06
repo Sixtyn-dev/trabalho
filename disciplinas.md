@@ -5,4 +5,4 @@
 
 - Lógica Computacional: Ensina os princípios da programação e o raciocínio lógico para criar algoritimos.
 
--Programação e Sistemas Computacionais: A disciplina de Programação e Sistemas Computacionais ensina os fundamentos da programação e o funcionamento dos sistemas do computador. gosto 
+-Programação e Sistemas Computacionais: A disciplina de Programação e Sistemas Computacionais ensina os fundamentos da programação e o funcionamento dos sistemas do computador. g
