@@ -3,6 +3,6 @@
 
 - Fundamentos para Engenharia de Software: Apresenta conceitos e métodos da Engenharia de Software, abordando processos e boas práticas para o desenvolvimento de sistemas. Os alunos aprendem sobre planejamento de projetos, levantamento de requisitos, organização do desenvolvimento e qualidade de software.
 
-- Lógica Computacional: Ensina os princípios da programação e o raciocínio lógico para criar algoritimos.
+- Lógica Computacional: Ensina os princípios da programação e o raciocínio lógico para criar algoritimos aplicados a computação. Os alunos aprendem a resolver problemas, criar alogoritmos e utilizar estruturas lógicas para o desenvolvimento de sitemas e programas.
 
--Programação e Sistemas Computacionais: A disciplina de Programação e Sistemas Computacionais ensina os fundamentos da programação e o funcionamento dos sistemas do computador.weffwefwe
+-Programação e Sistemas Computacionais: A disciplina de Programação e Sistemas Computacionais ensina os fundamentos da programação e o funcionamento dos sistemas do computador.
